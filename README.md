@@ -1,8 +1,7 @@
 # HackVioletHack
 The Github for HackViolet
 
-Find the Devpost submission <a href="https://devpost.com/software/aurora-aeu6v8">here.</a>
-<br>
+Find the Devpost submission <a href="https://devpost.com/software/aurora-aeu6v8">here</a>.
 
 ### To run this application locally:
 
