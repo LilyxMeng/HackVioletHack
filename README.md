@@ -29,5 +29,6 @@ flask run
 9. Navigate to the url given in the terminal to see the web application! :D
 
 The sites of our images and backgrounds!:
--https://undraw.co/
--https://lematworks.tumblr.com/
+1. https://undraw.co/
+2. https://lematworks.tumblr.com/
+3. https://www.iconfinder.com/
