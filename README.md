@@ -1,6 +1,7 @@
 # HackVioletHack
 The Github for Hack Violet
 
+Find the Devpost submission <a href="https://devpost.com/software/aurora-aeu6v8">here.</a>
 
 ### To run this application locally:
 
