@@ -1,5 +1,7 @@
 # Aurora
 
+View the Devpost submission <a href="https://devpost.com/software/aurora-aeu6v8">here</a>.
+
 ### To run this application locally:
 
 1. Clone the repository
