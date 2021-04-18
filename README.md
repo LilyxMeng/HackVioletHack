@@ -1,5 +1,4 @@
-# HackVioletHack
-The Github for HackViolet
+# Aurora
 
 ### To run this application locally:
 
